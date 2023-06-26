@@ -1,12 +1,12 @@
 {
   "name": "login",
   "version": "1.0.0",
-  "description": "This is a Simple Login Form ",
+  "description": "This is a Simple Login Form which uses mysql to fetch username and password",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Umang Saxena",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
